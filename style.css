@@ -10,13 +10,14 @@
   }
 .main{
     background-color: rgb(255, 255, 255);
-    width: 20%;
+    width: 23%;
     margin-left: 20px;
     font-family: "Poppins", sans-serif;
     font-size: 20px;
     border-radius: 10px;
     margin-top: 10px;
     padding-bottom: 20px;
+    float: left;
 }
 .menu{
     margin-left: 10px;
@@ -55,4 +56,22 @@
     background-color: #4070f4;
     color: #e3f2fd;
     border-radius: 5px;
+  }
+  .intro{
+    float: left;
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 30%;
+    padding-top: 10px;
+    border-radius: 5px;
+
+  }
+  h1{
+    text-align: center;
+    margin-top: 10px;
+  }
+  h3{
+    padding-top: 10px;
+    margin-left: 10px;
   }
