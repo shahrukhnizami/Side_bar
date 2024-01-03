@@ -59,13 +59,16 @@
   }
   .intro{
     float: left;
-    background-color: rgb(255, 255, 255);
+    
     margin-top: 10px;
-    margin-left: 20px;
+    margin-left: 10%;
     width: 30%;
     padding-top: 10px;
     border-radius: 5px;
 
+  }
+  .intro>h3>span{
+    color: #000000;
   }
   h1{
     text-align: center;
@@ -74,4 +77,5 @@
   h3{
     padding-top: 10px;
     margin-left: 10px;
+    color: #4070f4 ;
   }
