@@ -38,6 +38,7 @@
 .menu>span{
     margin-left: 10px;
     margin-top: 10px;
+    color:grey;
     
 
 }
@@ -52,11 +53,12 @@
     color: #e3f2fd;
     border-radius: 5px;
   }
-  .menu>img:hover {
+  .menu>span:hover {
     background-color: #4070f4;
     color: #e3f2fd;
     border-radius: 5px;
   }
+ 
   .intro{
     float: left;
     
